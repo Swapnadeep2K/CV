@@ -1,0 +1,22 @@
+body
+{
+  background-color: lightcyan;
+}
+hr
+{
+  background-color: lightcyan;
+  border-style: dotted none none;
+  border-color: mediumturquoise;
+  border-width: 6px;
+  width: 5%;
+}
+h1
+{
+  color: darkblue;
+}
+h3
+{
+  color: steelblue;
+  font-family: "papyrus",  cursive;
+  font-style: oblique;
+}
